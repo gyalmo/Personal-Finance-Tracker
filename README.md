@@ -1,6 +1,6 @@
 # Personal-Finance-Tracker </br> 
 Develop a web application that allows users to manage their finances by tracking income and expenses, setting budgets, and visualizing financial data through charts. </br>
-## **Core Features:** </br> </br>
+## **Core Features:** </br> 
 ### **User Registration and Authentication:**</br>
 Create a simple login system using local storage to save user sessions.</br>
 Allow users to register and log in to manage their personal finance data. </br>
