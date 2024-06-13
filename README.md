@@ -41,6 +41,6 @@ Provide an option to export financial data as a CSV file for external analysis. 
 ## Resources:  </br>
 Bootstrap Documentation  </br>
 Chart.js Documentation   </br>
-MDN Web Docs: HTML   </br>
-MDN Web Docs: CSS  </br>
-MDN Web Docs: JavaScript  </br>
+[MDN Web Docs: HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)   </br>
+[MDN Web Docs: CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)  </br>
+[MDN Web Docs: JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  </br>
